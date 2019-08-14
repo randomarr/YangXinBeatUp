@@ -40,9 +40,8 @@ Anonymous Information refers to information that cannot be tied back to a specif
 Accessing and Deleting Your Information
 
 Upon request, we will provide you with information about whether we hold any of your personal information. We will respond to your access request within a reasonable timeframe.
-
 You have the right to delete your personal data from our server by delete your account in Settings or by contacting us, cease further dissemination of the data, and potentially have third parties halt processing of the data.
 
 Our Policy Regarding Children
 
-We do not knowingly collect or solicit personal information from or direct or target interest based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services. If you are under 13, please do not send any information about yourself to us, including your name, address,  teleph
+We do not knowingly collect or solicit personal information from or direct or target interest based advertising to anyone under the age of 12 or knowingly allow such persons to use our Services. If you are under 12, please do not send any information about yourself to us, including your name, address,  teleph
