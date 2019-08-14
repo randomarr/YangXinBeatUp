@@ -6,10 +6,15 @@ Choose a warrior to fight！
  Technical support mailbox：bluewait@gmail.com
 
 How to play the game！
+
 On the left is the direction of walking
+
 A: Short attack
+
 B: Long attack
+
 C: Jump up
+
 D: Defense
 
 PRIVACY POLICY
